@@ -97,6 +97,11 @@ class SortingRobot:
         Sort the robot's list.
         """
         # Fill this out
+        #approach with bubble sort
+        #Start at word[0] and compare to the right neighbor.
+            #if right is smaller, swap
+            #else move right one and compare to the right neighbor
+            #done when there were no more swaps
         pass
 
 
